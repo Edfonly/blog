@@ -5,3 +5,4 @@ Este es un super blog
 
 * Tiene muchos ejemplos para practicar
 * Se puede utilizar para muchos lenguajes de programación
+* Este es un mensaje de prueba
